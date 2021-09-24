@@ -1,0 +1,2 @@
+rootProject.name = "ColorGen"
+include ':app'
